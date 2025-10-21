@@ -1,8 +1,8 @@
 Test repo for learning React Native, Go or Rust, servers/databases for our capstone project Overthrow Chess.
 
+---
 
-
-2. Start the app
+Start the app
 
    ```bash
    npx expo start
